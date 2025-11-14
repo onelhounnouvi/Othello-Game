@@ -20,7 +20,7 @@ Le programme propose trois modes de jeu au démarrage :
     tour i+2.
 
 ### Interface graphique
-![Texte alternatif](https://imgur.com/OqyXGDq)
+![Texte alternatif](https://imgur.com/a/NtrZ6xM)
 - **Pions noirs** : Joueur humain
 - **Pions blancs** : IA ou second joueur
 - Le pion en haut à gauche indique le joueur actuel
