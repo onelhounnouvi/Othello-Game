@@ -34,10 +34,10 @@ Le programme propose trois modes de jeu au démarrage :
 
 ## Organisation
 
-Le programme est organisé en quatre fichiers .c et trois fichiers .h:\
-- `Affichage.c` et `Affichage.h` qui contiennent toutes les fonctions permettant l’affichage du plateau de jeu\
-- `ListePos.c` et `ListePos.h` qui contiennent toutes les fonctions de manipulation de listes\
-- `Othello.c` et `Othello.h` qui contiennent toutes les fonctions concernant le jeu lui même.\
+Le programme est organisé en quatre fichiers .c et trois fichiers .h:
+- `Affichage.c` et `Affichage.h` qui contiennent toutes les fonctions permettant l’affichage du plateau de jeu
+- `ListePos.c` et `ListePos.h` qui contiennent toutes les fonctions de manipulation de listes
+- `Othello.c` et `Othello.h` qui contiennent toutes les fonctions concernant le jeu lui même.
 - `Main.c` qui est le programme principal.
 
 ### Compilation
@@ -48,7 +48,7 @@ make
 
 ### Dépendances
 
-- **SDL2** : Pour l'interface graphique\
+- **SDL2** : Pour l'interface graphique
 - **Compilateur C** : gcc ou équivalent
 
 ---
