@@ -21,7 +21,7 @@ Le programme propose trois modes de jeu au démarrage :
 
 ### Interface graphique
 <p align="center">
-	<img src="https://imgur.com/a/NtrZ6xM", height="180" width="240">
+	<img src="https://i.imgur.com/OqyXGDq.png", height="180" width="240">
 <p/>
 - **Pions noirs** : Joueur humain
 - **Pions blancs** : IA ou second joueur
