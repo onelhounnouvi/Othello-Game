@@ -15,7 +15,7 @@ Le programme propose trois modes de jeu au démarrage :
     - Choisit toujours le meilleur coup disponible (celui qui rapporte le plus de pions)
 
  **Mode 2 :** VS Joueur automatique intelligent\
-    - Avec anticipation : Simule 2 coups à l'avance\ (Algorithme Minimax de profondeur 2)
+    - Avec anticipation : Simule 2 coups à l'avance (Algorithme Minimax de profondeur 2)\
     - Pour chaque coup possible au tour i, il supposera que l’adversaire au tour i+1 jouera le meilleur coup et calculera quel est alors le meilleur coup possible au
     tour i+2.
 
