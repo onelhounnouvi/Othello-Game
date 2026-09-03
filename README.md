@@ -44,7 +44,7 @@ Le programme est organisé en quatre fichiers .c et trois fichiers .h:
 - `Othello.c` et `Othello.h` qui contiennent toutes les fonctions concernant le jeu lui même.
 - `Main.c` qui est le programme principal.
 
-### Compilation
+### Compilation et exécution
 ```bash
 make
 ./Othello
