@@ -57,4 +57,4 @@ make
 
 ---
 
-*Projet réalisé dans le cadre de l'UE LU1IN002. Les fonctions d'affichages graphiques nous ont été fournies*
+*Projet réalisé dans le cadre de l'UE LU1IN002.*
