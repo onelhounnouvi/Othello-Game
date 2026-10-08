@@ -46,6 +46,8 @@ Le programme est organisé en quatre fichiers .c et trois fichiers .h:
 
 ### Compilation et exécution
 ```bash
+git clone https://github.com/onelhounnouvi/Othello-Game
+cd Othello-Game/
 make
 ./Othello
 ```
